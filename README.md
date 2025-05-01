@@ -5,7 +5,8 @@
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
 
 ## ENTITY RELATIONSHIP DIAGRAM
-![alt text](<screen shot 2025-04-15 at 22.48.16_84353f11.jpg>)
+![image](https://github.com/user-attachments/assets/369d9e05-0e81-4814-82cb-a06defbcac16)
+
 
 
 ## DESIGN STEPS
@@ -47,7 +48,8 @@ class Movie_DBAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-04-15 222618.png>)
+![image](https://github.com/user-attachments/assets/130aca8d-f99a-472d-8697-159791901489)
+
 
 ## RESULT
 Thus the program for creating movies database using ORM hass been executed successfully
